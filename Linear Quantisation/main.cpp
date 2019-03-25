@@ -222,10 +222,5 @@ int main(int argc, char** argv) {
     getAdditionalData();
     imgOut(argv[2]);
 
-    /*
-    imgIn("/root/CLionProjects/ImgQuantization/testy4/example0.tga");
-    quantize();
-    imgOut("/root/CLionProjects/ImgQuantization/result.tga");
-    */
     return 0;
 }

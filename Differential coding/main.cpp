@@ -216,7 +216,6 @@ int main(int argc, char** argv) {
     rawImg = loader->getRawImg();
     encode(rawImg);
     decode();
-    //saveImg("/root/CLionProjects/KodRoznicowe/exampleEnc.tga", loader->fileBuffer, encImg);
     saveImg("/root/CLionProjects/KodRoznicowe/exampleDec.tga", loader->fileBuffer, decImg);
     MSE();
     SNR();
