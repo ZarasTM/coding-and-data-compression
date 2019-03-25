@@ -45,5 +45,5 @@ r, g, b - should be in range of <0, 8>
 # Differential coding
 **Implementation of differential coding using linear quantizator**
 Program codes/decodes every color byte of TGA image first quantizing it and then coding using differential codes. \
-Program needs integer input parameter from 1 to 7. This parameter represents bits for quantizator. \
+Program needs integer input parameter from 1 to 7. This parameter represents bits for quantizator. 
 
