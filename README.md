@@ -32,7 +32,7 @@ Program returns entropy for whole input img as well as every single color (R, G 
 Then it calculates entopy for every predictor and outputs it.  
 
 # Linear Quantization
-**Implementation of linear quantization for TGA image**
+**Implementation of linear quantization for TGA image**\
 Program performes quatization of given tga image according to inputed data and outputs quantized image along with mean squared error for whole image and single color data (R, G, B) as well as signal to noise ratio. \
 Program should be run as follows **./a.out input_file output_file r g b** where:
   * input_file - is a tga file to quantize
@@ -43,7 +43,7 @@ Program should be run as follows **./a.out input_file output_file r g b** where:
 r, g, b - should be in range of <0, 8>
 
 # Differential coding
-**Implementation of differential coding using linear quantizator**
+**Implementation of differential coding using linear quantizator**\
 Program codes/decodes every color byte of TGA image first quantizing it and then coding using differential codes. \
 Program needs integer input parameter from 1 to 7. This parameter represents bits for quantizator. 
 
