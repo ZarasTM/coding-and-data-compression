@@ -29,15 +29,7 @@ In addition to coding/decoding program also gives information about length of in
 Program uses 7 old standards and new standard of JPEG predictors to convert TGA images to JPEG images. \
 We assume that borders of image are black - RGB (0, 0, 0). \
 Program returns entropy for whole input img as well as every single color (R, G B).\
-Then it calculates entopy for every predictor and outputs it. 
-
-
-# JPEG-LS
-**Implementation of losless JPEG compression**\
-Program uses 7 old standards and new standard of JPEG predictors to convert TGA images to JPEG images. \
-We assume that borders of image are black - RGB (0, 0, 0). \
-Program returns entropy for whole input img as well as every single color (R, G B).\
-Then it calculates entopy for every predictor and outputs it. 
+Then it calculates entopy for every predictor and outputs it.  
 
 # Linear Quantization
 **Implementation of linear quantization for TGA image**
