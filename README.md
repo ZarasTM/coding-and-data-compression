@@ -1,9 +1,9 @@
 # Coding and data compression
-Programms for coding and data compression lectures
+Programs for coding and data compression lectures
 
 [Huffman codes](README.md#huffman-codes)\
 [LZ77](README.md#LZ77)\
-[JPEG-LS](README.md#JPEG-LS)
+[JPEG-LS](README.md#JPEG-LS)\
 [Linear Quantization](README.md#Linear-Quantization)\
 [Differential coding](README.md#Differential-coding)
 
