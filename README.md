@@ -40,6 +40,7 @@ Program should be run as follows **./a.out input_file output_file r g b** where:
   * r - is a number of bits for red color
   * g - is a number of bits for green color
   * b - is a number of bits for blue color
+
 r, g, b - should be in range of <0, 8>
 
 # Differential coding
